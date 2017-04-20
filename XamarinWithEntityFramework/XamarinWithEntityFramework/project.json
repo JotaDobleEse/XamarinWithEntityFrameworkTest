@@ -1,0 +1,11 @@
+{
+  "supports": {},
+  "dependencies": {
+    "AutoMapper": "6.0.2",
+    "Microsoft.EntityFrameworkCore.Sqlite": "1.1.1",
+    "Xamarin.Forms": "2.3.4.231"
+  },
+  "frameworks": {
+    "netstandard1.4": "portable-net45+win8+wpa81"
+  }
+}
